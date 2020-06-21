@@ -1,6 +1,4 @@
-﻿# bounce.py
-#
-# Exercise 1.5
+﻿# Exercise 1.5
 def main():
 	h = 100
 	numberOfValues = 10
